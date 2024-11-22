@@ -1,0 +1,24 @@
+--cpu Cortex-M3
+"zaman\startup_stm32f103xb.o"
+"zaman\main.o"
+"zaman\stm32f1xx_it.o"
+"zaman\stm32f1xx_hal_msp.o"
+"zaman\stm32f1xx_hal_gpio_ex.o"
+"zaman\stm32f1xx_hal_tim.o"
+"zaman\stm32f1xx_hal_tim_ex.o"
+"zaman\stm32f1xx_hal_uart.o"
+"zaman\stm32f1xx_hal.o"
+"zaman\stm32f1xx_hal_rcc.o"
+"zaman\stm32f1xx_hal_rcc_ex.o"
+"zaman\stm32f1xx_hal_gpio.o"
+"zaman\stm32f1xx_hal_dma.o"
+"zaman\stm32f1xx_hal_cortex.o"
+"zaman\stm32f1xx_hal_pwr.o"
+"zaman\stm32f1xx_hal_flash.o"
+"zaman\stm32f1xx_hal_flash_ex.o"
+"zaman\stm32f1xx_hal_exti.o"
+"zaman\system_stm32f1xx.o"
+--strict --scatter "ZAMAN\ZAMAN.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "ZAMAN.map" -o ZAMAN\ZAMAN.axf
