@@ -1,0 +1,10 @@
+C:\Users\m.kara\Desktop\ZAMANLAYICI\ZAMANLAYICI\ZAMANLAYICI\bin\Debug\ZAMANLAYICI.exe.config
+C:\Users\m.kara\Desktop\ZAMANLAYICI\ZAMANLAYICI\ZAMANLAYICI\bin\Debug\ZAMANLAYICI.exe
+C:\Users\m.kara\Desktop\ZAMANLAYICI\ZAMANLAYICI\ZAMANLAYICI\bin\Debug\ZAMANLAYICI.pdb
+C:\Users\m.kara\Desktop\ZAMANLAYICI\ZAMANLAYICI\ZAMANLAYICI\obj\Debug\ZAMANLAYICI.csproj.AssemblyReference.cache
+C:\Users\m.kara\Desktop\ZAMANLAYICI\ZAMANLAYICI\ZAMANLAYICI\obj\Debug\ZAMANLAYICI.Form1.resources
+C:\Users\m.kara\Desktop\ZAMANLAYICI\ZAMANLAYICI\ZAMANLAYICI\obj\Debug\ZAMANLAYICI.Properties.Resources.resources
+C:\Users\m.kara\Desktop\ZAMANLAYICI\ZAMANLAYICI\ZAMANLAYICI\obj\Debug\ZAMANLAYICI.csproj.GenerateResource.cache
+C:\Users\m.kara\Desktop\ZAMANLAYICI\ZAMANLAYICI\ZAMANLAYICI\obj\Debug\ZAMANLAYICI.csproj.CoreCompileInputs.cache
+C:\Users\m.kara\Desktop\ZAMANLAYICI\ZAMANLAYICI\ZAMANLAYICI\obj\Debug\ZAMANLAYICI.exe
+C:\Users\m.kara\Desktop\ZAMANLAYICI\ZAMANLAYICI\ZAMANLAYICI\obj\Debug\ZAMANLAYICI.pdb
